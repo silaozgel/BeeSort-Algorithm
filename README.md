@@ -28,3 +28,7 @@ This project demonstrates how natural behaviors can inspire efficient sorting st
 
 ```bash
 python BeeSorting.py
+```
+## Author
+**Sıla Özgel**
+Computer Engineering Student
